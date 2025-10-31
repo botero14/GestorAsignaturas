@@ -17,7 +17,7 @@
 - Android SDK (si compilas Android)
 
 ## Dependencias (pubspec.yaml)
-```yaml
+``` yaml
 dependencies:
   flutter:
     sdk: flutter
@@ -30,6 +30,7 @@ dev_dependencies:
     sdk: flutter
   floor_generator: ^1.4.2
   build_runner: ^2.4.7
+  ´´´
   
 Primeros pasos
 bash
